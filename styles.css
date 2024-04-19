@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    background-color:rgb(51, 50, 50);
+}
+#cabecalho{
+    height: 150px;
+    background-color: rgb(86, 184, 119);
+    width: 96%;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Rd7L1YxOS4OsE0ILsTHGvCGemrl6HrVdPl6GEVg-Mg&s);
+
+}
+#menu{
+    height: 1300px;
+    width: 270px;
+    background-color: rgb(49, 178, 90);
+    float: left;
+    margin-left: 37px;
+    margin-top: 10px;
+    background-image: url(https://media.istockphoto.com/id/1428272134/pt/foto/christmas-green-backdrop-grunge-wood-board-painted-background.webp?b=1&s=170667a&w=0&k=20&c=X_3IIqPyB_J5GZW9w9R4K78xDVel4Zy_rr8dcHPtyAk=);
+}
+#conteudo{
+    height: 1300px;
+    width: 1000px;
+    background-color:white;
+    float: left;
+    margin-top: 10px;
+    margin-left: 5px;
+   
+}
+#lado{
+    height: 1300px;
+    width: 290px;
+    background-color: rgb(77, 172, 112);
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-block-end: 5px; 
+    background-image: url(https://media.istockphoto.com/id/1428272134/pt/foto/christmas-green-backdrop-grunge-wood-board-painted-background.webp?b=1&s=170667a&w=0&k=20&c=X_3IIqPyB_J5GZW9w9R4K78xDVel4Zy_rr8dcHPtyAk=);
+    
+}
+#rodape{
+height: 100px;
+background-color:rgb(32, 93, 60) ; 
+clear: both;  
+width: 97%;
+margin: 0 auto;
+text-align: center;
+}
+h1{
+    font-family: Georgia;
+    text-align: center;
+    background-color: aliceblue;
+}
+h3,h2{
+    text-align: center;
+}
+ol{
+    padding: 50px;
+    
+}
+#imagem1{
+float: right;
+padding: 50px;
+}
